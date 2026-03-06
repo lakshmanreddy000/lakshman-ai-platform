@@ -1043,7 +1043,7 @@ export default function App() {
           <span style={{ color: T.primary, cursor: 'pointer' }}>LinkedIn</span>
         </div>
         <div style={{ marginTop: 22, fontSize: 11.5, color: T.textDim, fontFamily: 'JetBrains Mono,monospace' }}>
-          Built with Claude AI · React + Recharts · Powered by Anthropic
+          Built with Js · React + Recharts · Powered by Anthropic
         </div>
       </footer>
 
